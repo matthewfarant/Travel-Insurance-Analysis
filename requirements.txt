@@ -149,7 +149,7 @@ typing_extensions==4.3.0
 urllib3==1.26.11
 visions==0.7.4
 wcwidth==0.2.5
-Werkzeug==2.2.2
+Werkzeug==2.2.3
 wrapt==1.14.1
 xgboost==1.6.1
 zict==2.2.0
